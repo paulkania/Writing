@@ -1,0 +1,29 @@
+Meditations On Believing In Bitcoin & Its Relationship To Bitcoin Education
+
+TLDR: I am the righteous man, my brother's keeper, and I shepherd the weak through the valley of darkness, away from the tyranny of evil men.
+
+When I first learnt about Bitcoin, I was at the horizon of ownership, but fell away, a victim of my own ignorance in regards to the resilience of P2P, POW, and a victim of China FUD, which was rampant then. It didn't help that I was broke.
+
+When I returned to Bitcoin, a few years later, I was taught that Bitcoin was resilient, that moneybadger just don't care.
+
+This faith, or lackthereof, may represent _the_ paramount difference between nocoiners and yescoiners.
+
+As years went by, I have mostly moved on from Bitcoin-twitter, with some exceptions. These days I delve into mailing lists and code review. And as I venture into the code, the faith gets tested, sometimes rationally, sometimes not. One sees that the code is malleable, changing, refactoring. True too that the wizards are happy to point out that consensus is a very [difficult problem](https://bitcoin.stackexchange.com/questions/95177/what-kind-of-bug-does-bitcoin-core-possess-that-have-to-be-replicated/95216#95216), that consensus is describable but not exactly prescribable. Any non-reference implementation has to match the reference implementation 1:1, bugs and all. This difficulty in consensus can also be described as the problem of unknown unknowns. In Oct 2022, the LND consensus bug was caused by an unknown unknown - namely, that wire-parsing script-size checks were being made on taproot scripts, when no such check was supposed to exist. This check was left behind from segwit days, apparently.
+
+Unknown unknowns will continue to exist, new ones may arise, and I'm bullish despite this. Why? Because these failures are recoverable, and because I can't imagine how sick I would feel if I learnt the internals at any central bank, including the FED.
+
+<south park chicken head bailout img>
+
+Bitcoin airs its laundry in the open if you spend time to learn the language and see what's going on. The Fed does not. According to them, we are children, we can't handle the truth.
+
+<jack nicklaus the fed meme>
+
+Furthermore, the same Core devs who freely admit that consensus is a difficult problem, believe that consensus failures won't be fatal to the system. I'm foggy on what the solutions to an accidental hard-fork would be, but I believe them. As of yet, all consensus bugs have been patched quickly, without harm. The blockchain will survive. And certainly I trust more in the devs [when I cannot verify, for lack of knowledge] orders of magnitude more than I trust our current overlord J.Pow. Monseiur Pow works in secret, talks in riddles, and effectively treats the public like children. He is beholden to the tyranny of evil men.
+
+But another question. As an educator, where does this leave me, when and if I choose to spread the gospel?
+
+The dilemna I face is whether or not to share Bitcoin's dirtiest laundry with Bitcoin noobs. Ultimately I choose not to, with possible exceptions. It would be overwhelming to a noob, in a subject already so foreign. A noob doesn't understand his privelege in inspecting Bitcoin's laundry, when the FED's putrid laundry is hidden and encrypted. The FED only comes out wearing makeup. If you hang around Bitcoin long enough, you can see her ugliest sides. Still, I love her. Antifragility in the flesh.
+
+Furthermore, people trust in the internet, without knowing fuck-all about it. It is only because this is a question of money, that noobs want to understand. But the noobs stopped understanding tech well before Farnsworth and Turing and Bell were doing there thing. 
+
+Let the noobs be noobs, afterall, I am the righteous man, my brother's keeper, and I shepherd the weak through the valley of darkness, away from the tyranny of evil men.
